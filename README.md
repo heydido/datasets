@@ -1,1 +1,1 @@
-An online sapce for stroing small datasets
+An online space for storing small datasets
